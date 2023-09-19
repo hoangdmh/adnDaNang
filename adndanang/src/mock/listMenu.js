@@ -6,7 +6,7 @@ export default [
     },
     {
         pageName: 'Giới thiệu',
-        pageUrl: '/gioithieu',
+        pageUrl: '/gioi-thieu',
         isChild: false
     },
     {
@@ -42,16 +42,16 @@ export default [
     },
     {
         pageName: 'Bảng giá - thanh toán',
-        pageUrl: '/banggia',
+        pageUrl: '/bang-gia',
         isChild: true,
         pageChild: [
             {
                 pageName: 'Bảng giá',
-                pageUrl: '/banggia'
+                pageUrl: '/bang-gia'
             },
             {
                 pageName: 'Hình thức thanh toán',
-                pageUrl: '/thanhtoan'
+                pageUrl: '/thanh-toan'
             }
         ]
     },
