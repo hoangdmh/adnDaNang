@@ -23,18 +23,6 @@ export default [
                 pageUrl: '/xet-nghiem-cha-con-truoc-khi-sinh'
             },
             {
-                pageName: 'XÉT NGHIỆM ADN ANH (CHỊ) EM',
-                pageUrl: '/xet-nghiem-adn-anh-chi-em'
-            },
-            {
-                pageName: 'XÉT NGHIỆM ADN HỌ HÀNG',
-                pageUrl: '/xet-nghiem-adn-ho-hang'
-            },
-            {
-                pageName: 'XÉT NGHIỆM HUYẾT THỐNG ÔNG BÀ CHÁU',
-                pageUrl: '/xet-nghiem-huyet-thong-ong-ba-chau'
-            },
-            {
                 pageName: 'GIÁM ĐỊNH ADN HÀI CỐT LIỆT SĨ',
                 pageUrl: '/giam-dinh-adn-hai-cot'
             },
@@ -69,10 +57,15 @@ export default [
                 pageUrl: '/thu-tuc-xet-nghiem'
             }
         ]
+    },    
+    {
+        pageName: 'Tin tức',
+        pageUrl: '/tin-tuc',
+        isChild: false
     },
     {
         pageName: 'Liên hệ',
         pageUrl: '/lien-he',
         isChild: false
-    }
+    },
 ]

@@ -372,6 +372,8 @@ header .menu-pc .menu-full .menu-content .parent li .child {
     -webkit-transition:  visibility 0s linear 0.5s,  opacity 0.25s linear;
     -o-transition:  visibility 0s linear 0.5s,  opacity 0.25s linear;
     transition:  visibility 0s linear 0.5s,  opacity 0.25s linear;
+    border: 1px solid #1889c1;
+    border-top: none;
 }
 header .menu-pc .menu-full .menu-content .parent li .child li {
     margin-right:  0;
