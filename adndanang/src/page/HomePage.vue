@@ -3,13 +3,12 @@
 </template>
 
 <script>
-import CompMenuLeft from '../component/CompMenuLeft.vue';
-import CompHome from '../component/CompHome.vue';
+
+import CompHome from '../component/CompHome';
 
 export default {
     name: 'home-page',
     components: {
-        CompMenuLeft,
         CompHome
     },
     metaInfo: {

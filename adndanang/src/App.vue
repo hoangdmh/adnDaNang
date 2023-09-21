@@ -20,7 +20,7 @@ import CompFooter from './component/CompFooter.vue';
 import CompMenu from './component/CompMenu.vue';
 import CompSlider from './component/CompSlider.vue';
 import CompMenuLeft from './component/CompMenuLeft.vue';
-import HomePage from './page/HomePage.vue';
+
 
 
 export default {
@@ -36,10 +36,13 @@ export default {
 		CompMenu,
 		CompSlider,
 		CompMenuLeft,
-		HomePage
+
 	},
 	metaInfo: {
       title: 'Xét nghiệm ADN Đà Nẵng',
+	  link: [
+		{ rel: 'icon', href: '/src/assets/images/favicon.png', type:"image/png" }
+	  ]
     }
 }
 </script>

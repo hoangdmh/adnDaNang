@@ -3,7 +3,7 @@
 		<div class="top-banner">
 			<div class="banner clear-fix">
 				<h1>
-					<a href="/"><img src="/src/assets/images/logo.png" alt="logo" title="xet nghiem adn da nang"></a>
+					<router-link to="/"><img src="/src/assets/images/logo.png" alt="logo" title="xet nghiem adn da nang"></router-link>
 				</h1>
 				<div class="info-contact">
 					<h2>Trung tâm xét nghiệm ADN Đà Nẵng - Miền Trung</h2>

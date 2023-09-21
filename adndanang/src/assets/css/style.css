@@ -769,11 +769,9 @@ footer .info #return-to-top {
     height:  50px;
     display:  block;
     text-decoration:  none;
-    -webkit-border-radius:  35px;
     border-radius:  35px;
     display:  none;
-    -webkit-transition:  all 0.3s ease;
-    -o-transition:  all 0.3s ease;
+    cursor: pointer;
     transition:  all 0.3s ease;
 }
 footer .info #return-to-top i {

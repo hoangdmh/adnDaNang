@@ -1,7 +1,10 @@
 <template>
 	<footer>
 		<div class="info clear-fix">
-			<a href="javascript:" id="return-to-top"><i class="icon-chevron-up arrow up"></i></a>	
+			<!-- <a href="javascript:" id="return-to-top"><i class="icon-chevron-up arrow up"></i></a> -->
+			<p id="return-to-top" @click="scrollToTop()">
+				<i class="icon-chevron-up arrow up"></i>
+			</p>
 			<div class="contact">
 				<p><span class="col-blue">TRUNG TÂM XÉT NGHIỆM ADN ĐÀ NẴNG VÀ MIỀN TRUNG<br>VĂN PHÒNG THU MẪU & PHÂN TÍCH ADN</span></p>
 				<p>Địa chỉ: 160 Nguyễn Quang Lâm, Hoà Xuân, Cẩm Lệ, TP Đà Nẵng<br>
@@ -20,7 +23,23 @@
   
 <script>
 	export default {
-		name: 'comp-footer'
+		name: 'comp-footer',
+		mounted(){
+			let backToTop = document.getElementById("return-to-top");
+
+			window.onscroll = function() {
+				if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+					backToTop.style.display = "block";
+				} else {
+					backToTop.style.display = "none";
+				}
+			};
+		},
+		methods: { 
+			scrollToTop() {				
+				window.scrollTo(0,0);
+			}
+		}
 	}
 </script>
 
