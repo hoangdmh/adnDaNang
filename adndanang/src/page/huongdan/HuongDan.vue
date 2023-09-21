@@ -29,7 +29,7 @@
                 <p><i>Bước 2:</i></p>
                 <p>Dùng nhíp hoặc vật dụng nào đó nhổ khoảng 5-7 sợi tóc có chân (gốc), gói vào tờ giấy trắng A4 (tránh sử dụng giấy ăn hoặc giấy mềm) rồi cho vào bì thư đã ghi sẵn tên tuổi người cần làm xét nghiệm ADN, dán kín, ký tên, niêm phong bì thư.</p>
                 
-                <img src="/src/assets/images/tu-thu-mau-toc-xet-nghiem-adn.jpg" alt="tu-thu-mau-toc-xet-nghiem-adn" class="mb-20">
+                <img src="../../assets/images/tu-thu-mau-toc-xet-nghiem-adn.jpg" alt="tu-thu-mau-toc-xet-nghiem-adn" class="mb-20">
 
                 <div class="inner"><p class="tittle">MẪU MÓNG TAY, CHÂN</p></div>
                 <p><i>Bước 1:</i></p>
@@ -38,7 +38,7 @@
                 <p><i>Bước 2:</i></p>
                 <p>Dùng bấm, kéo cắt móng tay hoặc móng chân với số lượng 2-3 mảnh (có thể một mảnh hoặc nhiều mảnh, miễn là khối lượng phải đủ), rồi cho vào bì thư đã ghi sẵn tên tuổi người cần làm xét nghiệm ADN, dán kín, ký tên, niêm phong bì thư.</p>
                                         
-                <img src="/src/assets/images/tu-thu-mau-mong-tay-xet-nghiem-adn.jpg" alt="tu-thu-mau-mong-tay-xet-nghiem-adn" class="mb-20">
+                <img src="../../assets/images/tu-thu-mau-mong-tay-xet-nghiem-adn.jpg" alt="tu-thu-mau-mong-tay-xet-nghiem-adn" class="mb-20">
 
                 <div class="inner"><p class="tittle">MẪU CUỐNG RỐN</p></div>
                 <p><i>Bước 1:</i></p>

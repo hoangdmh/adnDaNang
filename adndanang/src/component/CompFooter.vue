@@ -13,8 +13,8 @@
 			</div>
 			<div class="social">
 				<ul>
-					<li><a href="https://www.facebook.com/TrungTamXetNghiemADNDaNang" target="_blank"><img src="./assets/images/icon_face.png" alt="facebook"></a></li>
-					<li><a href="https://plus.google.com/+DoMinhHoang" target="_blank"><img src="./assets/images/icon_google.png" alt="google blus"></a></li>
+					<li><a href="https://www.facebook.com/TrungTamXetNghiemADNDaNang" target="_blank"><img src="../assets/images/icon_face.png" alt="facebook"></a></li>
+					<li><a href="https://plus.google.com/+DoMinhHoang" target="_blank"><img src="../assets/images/icon_google.png" alt="google blus"></a></li>
 				</ul>
 			</div>
 		</div>	
