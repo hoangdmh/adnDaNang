@@ -5,6 +5,9 @@ import router from './router';
 
 import VueMeta from 'vue-meta'
 
+
+import './plugins'
+
 Vue.use(VueMeta, {
   // optional pluginOptions
   refreshOnceOnNavigation: true
