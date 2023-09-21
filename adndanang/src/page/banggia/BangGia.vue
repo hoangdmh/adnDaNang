@@ -146,7 +146,10 @@
 
 <script>
 export default {
-	name: 'bang-gia' 
+	name: 'bang-gia',
+    metaInfo: {
+      title: 'Bảng giá',
+    }
 }
 </script>
 

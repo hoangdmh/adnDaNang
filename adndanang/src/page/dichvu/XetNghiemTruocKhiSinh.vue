@@ -27,7 +27,10 @@
 
 <script>
 export default {
-	name: 'xet-nghiem-truoc-khi-sinh' 
+	name: 'xet-nghiem-truoc-khi-sinh',
+	metaInfo: {
+      title: 'Xét nghiệm trước khi sinh',
+    }
 }
 </script>
 

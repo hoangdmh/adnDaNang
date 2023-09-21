@@ -24,7 +24,10 @@
 
 <script>
 export default {
-	name: 'giam-dinh-adn-hai-cot-liet-si' 
+	name: 'giam-dinh-adn-hai-cot-liet-si',
+	metaInfo: {
+      title: 'Giám định hài cốt liệt sĩ',
+    } 
 }
 </script>
 

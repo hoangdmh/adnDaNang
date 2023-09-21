@@ -45,7 +45,10 @@
 
 <script>
 export default {
-	name: 'thu-tuc-xet-nghiem' 
+	name: 'thu-tuc-xet-nghiem',
+    metaInfo: {
+      title: 'Thủ tục xét nghiệm',
+    }
 }
 </script>
 

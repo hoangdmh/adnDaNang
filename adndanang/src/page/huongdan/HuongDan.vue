@@ -65,7 +65,10 @@
 
 <script>
 export default {
-	name: 'huong-dan' 
+	name: 'huong-dan',
+    metaInfo: {
+      title: 'Hướng dẫn',
+    }
 }
 </script>
 

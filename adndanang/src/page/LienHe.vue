@@ -14,7 +14,10 @@
 
 <script>
 export default {
-		name: 'lien-he'
+	name: 'lien-he',
+	metaInfo: {
+      title: 'Liên hệ',
+    }
 }
 </script>
 

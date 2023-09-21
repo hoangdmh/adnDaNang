@@ -11,6 +11,9 @@ export default {
     components: {
         CompMenuLeft,
         CompHome
+    },
+    metaInfo: {
+      title: 'Xét nghiệm ADN Đà Nẵng',
     }
 }
 </script>

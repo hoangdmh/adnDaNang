@@ -53,7 +53,10 @@
   
   <script>
   export default {
-      name: 'gioi-thieu'
+      name: 'gioi-thieu',
+      metaInfo: {
+        title: 'Giới thiệu',
+    }
   }
   </script>
   

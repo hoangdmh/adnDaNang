@@ -12,7 +12,10 @@
 
 <script>
 export default {
-	name: 'thanh-toan' 
+	name: 'thanh-toan',
+	metaInfo: {
+      title: 'Phước thức thanh toán',
+    }
 }
 </script>
 

@@ -13,7 +13,10 @@
 
 <script>
 export default {
-	name: 'tin-tuc' 
+	name: 'tin-tuc',
+	metaInfo: {
+      title: 'Tin tức',
+    }
 }
 </script>
 

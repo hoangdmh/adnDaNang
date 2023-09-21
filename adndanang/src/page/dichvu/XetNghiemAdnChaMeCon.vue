@@ -25,7 +25,10 @@
 
 <script>
 export default {
-	name: 'xet-nghiem-adn-cha-me-con' 
+	name: 'xet-nghiem-adn-cha-me-con',
+    metaInfo: {
+      title: 'Xét nghiệm ADN huyết thống',
+    }
 }
 </script>
 

@@ -37,7 +37,10 @@ export default {
 		CompSlider,
 		CompMenuLeft,
 		HomePage
-	}
+	},
+	metaInfo: {
+      title: 'Xét nghiệm ADN Đà Nẵng',
+    }
 }
 </script>
 
