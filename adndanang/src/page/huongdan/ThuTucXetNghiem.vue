@@ -2,7 +2,7 @@
 	<div class="content-sub">
         <div class="inner">
             <p class="tittle">HƯỚNG DẪN THỦ TỤC XÉT NGHIỆM</p>
-            <img src="/src/assets/images/thu-tuc-xet-nghiem.jpg" alt="thu-tuc-xet-nghiem" class="mb-20">
+            <img src="../../assets/images/thu-tuc-xet-nghiem.jpg" alt="thu-tuc-xet-nghiem" class="mb-20">
             <p><span class="col-red">XÉT NGHIỆM ADN CHO MỤC ĐÍCH CÁ NHÂN</span></p>
 
             <p>Thủ tục xét nghiệm ADN chỉ khoảng 05 phút gồm các bước sau:</p>

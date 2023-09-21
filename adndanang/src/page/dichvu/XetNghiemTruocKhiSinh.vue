@@ -2,7 +2,7 @@
 	<div class="content-sub">
 		<div class="inner">
 			<p class="tittle">XÉT NGHIỆM ADN CHA CON TRƯỚC KHI SINH</p>
-			<img src="/src/assets/images/cha-con-truoc-khi-sinh.jpg" alt="cha-con-truoc-khi-sinh" class="mb-20">
+			<img src="../../assets/images/cha-con-truoc-khi-sinh.jpg" alt="cha-con-truoc-khi-sinh" class="mb-20">
 			<p>Là phương pháp xét nghiệm ADN cha con khi đứa bé còn chưa được sinh ra và sử dụng máu mẹ để xét nghiệm không cần các thủ thuật xâm lấn (chọc dò nước ối) nên an toàn tuyệt đối cho mẹ và bé.</p>
 
 			<p><span class="col-blue">NHỮNG SẢN PHỤ CẦN XÉT NGHIỆM CHA CON TRƯỚC SINH</span></p>

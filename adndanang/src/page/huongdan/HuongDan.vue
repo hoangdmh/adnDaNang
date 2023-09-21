@@ -3,7 +3,7 @@
         <div class="content-sub">
             <div class="inner">
             <p class="tittle"><b>HƯỚNG DẪN THU MẪU VÀ BẢO QUẢN MẪU</b></p>
-            <img src="/src/assets/images/huong-dan-thu-mau-va-bao-quan-mau.jpg" alt="huong-dan-thu-mau-va-bao-quan-mau" class="mb-20">
+            <img src="../../assets/images/huong-dan-thu-mau-va-bao-quan-mau.jpg" alt="huong-dan-thu-mau-va-bao-quan-mau" class="mb-20">
             </div>
             <p><span class="col-red">HƯỚNG DẪN TỰ THU MẪU TẠI NHÀ</span></p>
             <p>Việc thu mẫu dùng để thực hiện <a href="http://adndanang.com" class="spencial_col">xét nghiệm ADN</a> rất đơn giản, với công nghệ mới nhất của Trung tâm thì các bạn không phải quá khắt khe trong vấn đề thu mẫu. Các bạn có thể chọn những mẫu sau đây và phù hợp với mình nhất để mang tới Trung tâm làm xét nghiệm.</p>		
@@ -14,7 +14,7 @@
                 <p>Chuẩn bị bì thư đựng mẫu sạch, ghi tên tuổi rõ ràng hoặc các ký hiệu của mình lên bì thư và kim lấy máu vô trùng (có thể mua ở hiệu thuốc)</p>
                 <p><i>Bước 2:</i></p>
                 <p>Lấy 1- 2 giọt máu được thấm vào bông hoặc gạc y tế, để khô tự nhiên 5 phút rồi cho vào bì thư đã ghi sẵn tên tuổi người cần làm xét nghiệm ADN, dán kín và ký tên niêm phong bì thư.</p>						
-                <img src="/src/assets/images/tu-thu-mau-mau-xet-nghiem-adn.jpg" alt="tu-thu-mau-mau-xet-nghiem-adn" class="mb-20">
+                <img src="../../assets/images/tu-thu-mau-mau-xet-nghiem-adn.jpg" alt="tu-thu-mau-mau-xet-nghiem-adn" class="mb-20">
 
                 <div class="inner"><p class="tittle">MẪU NIÊM MẠC MIỆNG</p></div>
                 <p><i>Bước 1:</i></p>
@@ -22,7 +22,7 @@
                 <p><i>Bước 2:</i></p>
                 <p>Dùng đầu tăm bông quệt xoáy vào trong má trong 30s nhẹ nhàng, để khô tự nhiên 5 phút rồi cho vào bì thư đã ghi sẵn tên tuổi người cần làm xét nghiệm ADN, dán kín, ký tên, niêm phong bì thư.</p>
                 
-                <img src="/src/assets/images/tu-thu-mau-niem-mac-miec-xet-nghiem-adn.jpg" alt="tu-thu-mau-niem-mac-miec-xet-nghiem-adn" class="mb-20">						
+                <img src="../../assets/images/tu-thu-mau-niem-mac-miec-xet-nghiem-adn.jpg" alt="tu-thu-mau-niem-mac-miec-xet-nghiem-adn" class="mb-20">						
                 <div class="inner"><p class="tittle">MẪU TÓC, LÔNG</p></div>
                 <p><i>Bước 1:</i></p>
                 <p>Chuẩn bị bì thư đựng mẫu sạch, ghi tên tuổi rõ ràng hoặc các ký hiệu của mình lên bì thư</p>

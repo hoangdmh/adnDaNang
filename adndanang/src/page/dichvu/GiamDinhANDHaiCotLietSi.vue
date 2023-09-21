@@ -16,7 +16,7 @@
 			<div class="inner">
 			<p class="tittle">Chọn người thân để giám định ADN liệt sĩ:</p>
 			<p>Người được lấy mẫu <a href="http://adndanang.com" class="spencial_col">ADN xét nghiệm</a> để giám định là người mẹ hoặc cùng gia phả với người mẹ (anh chị em ruột của mẹ). Hoặc có thể theo hướng dẫn của các nhân viên của trung tâm để tìm ra người có thể giám định.</p>
-			<img src="/src/assets/images/So-do-pha-he4-300x183.jpg" alt="So-do-pha-he">
+			<img src="../../assets/images/So-do-pha-he4-300x183.jpg" alt="So-do-pha-he">
 			</div>			
 	</div>
 </div>

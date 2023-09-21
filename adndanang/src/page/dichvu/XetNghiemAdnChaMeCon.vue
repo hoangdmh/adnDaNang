@@ -2,7 +2,7 @@
 	<div class="content-sub">
         <div class="inner">
             <p class="tittle">XÉT NGHIỆM ADN CHA (MẸ) - CON</p>
-            <img src="/src/assets/images/cha-me-con.jpg" alt="cha-me-con" class="mb-20 w-100">
+            <img src="../../assets/images/cha-me-con.jpg" alt="cha-me-con" class="mb-20 w-100">
             <p>Kết quả xét nghiệm ADN không thay đổi trong suốt cuộc đời của một con người, tính chính xác của xét nghiệm là tuyệt đối. Kết quả được lưu tại Trung tâm miễn phí.</p>
             <p><span class="col-blue">NGUYÊN LÝ <a href="http://adndanang.com">XÉT NGHIỆM</a></span></p>
             <p>ADN người con có chứa một nửa là ADN người cha, nửa còn lại của người mẹ, hầu hết các tế bào của người con đều chứa một trình tự ADN giống nhau .Những chuyên gia dày dặn kinh nghiệm của Trung tâm đã dựa trên các nguyên lý cơ bản này để thực hiện xét nghiệm adn cha con (hoặc mẹ con)</p>
@@ -11,7 +11,7 @@
             <p>Với kết quả KHÔNG có quan hệ huyết thống Cha – Con thì kết quả đưa ra sẽ là chính xác 100%.</p>
             <p>Với kết quả có quan hệ huyết thống Cha – Con thì kết quả đưa ra độ chính xác có thể lên đến 99,9999…%</p>
 
-            <img src="/src/assets/images/chacon.jpg" alt="chacon" class="w-62">
+            <img src="../../assets/images/chacon.jpg" alt="chacon" class="w-62">
             <p class="text-cent">Bộ gen của con có một nửa là của cha , nửa còn lại của mẹ</p>	
 
         </div>

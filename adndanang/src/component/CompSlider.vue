@@ -8,11 +8,11 @@
 				controls
 				indicators
 			>
-				<b-carousel-slide img-src="/src/assets/images/pic_02.jpg"></b-carousel-slide>
+				<b-carousel-slide img-src="https://adndanang.com/img/pic_02.jpg"></b-carousel-slide>
 		
-				<b-carousel-slide img-src="/src/assets/images/pic_03.jpg"></b-carousel-slide>
+				<b-carousel-slide img-src="https://adndanang.com/img/pic_03.jpg"></b-carousel-slide>
 		
-				<b-carousel-slide img-src="/src/assets/images/pic_04.jpg"></b-carousel-slide>
+				<b-carousel-slide img-src="https://adndanang.com/img/pic_04.jpg"></b-carousel-slide>
 			</b-carousel>
 		</div>
 	</div>
