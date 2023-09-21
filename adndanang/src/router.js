@@ -16,6 +16,8 @@ import XetNghiemAdnChaMeCon from './page/dichvu/XetNghiemAdnChaMeCon.vue';
 import XetNghiemTruocKhiSinh from './page/dichvu/XetNghiemTruocKhiSinh.vue';
 import GiamDinhANDHaiCotLietSi from './page/dichvu/GiamDinhANDHaiCotLietSi.vue';
 
+import PageNotFound from './page/PageNotFound.vue';
+
 Vue.use(VueRouter)
 
 const routes = [
@@ -63,7 +65,9 @@ const routes = [
         path: '/giam-dinh-adn-hai-cot', 
         component: GiamDinhANDHaiCotLietSi
     },
-
+    {
+		path: '*', component: PageNotFound
+	}
 ]
 
 const router = new VueRouter({
